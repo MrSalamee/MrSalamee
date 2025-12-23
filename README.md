@@ -2,13 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Loaner Vehicle (or Loaner Request) training project</b>
+- <b>Loaner Vehicle (or Loaner Request) Application Development project</b>
   - [Loaner Vehicle App Development](https://github.com/MrSalamee/Loaner-vehicle-App)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>SecOps Implementation Project</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- <b>ServiceNow App Integration Project</b>
+  - [Configuring Turbonomic REST API Connector Sources](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2>📺 Popular YouTube Videos</h2>
 
