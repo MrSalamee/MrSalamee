@@ -9,6 +9,11 @@
 - <b>ServiceNow App Integration Project</b>
   - [Configuring Turbonomic REST API Connector Sources](https://github.com/joshmadakor1/Sentinel-Lab)
 
+<h2> Certifications:</h2>
+
+- <b>ServiceNow Certified Systems Administrator (CSA), (Feb 2024)</b>
+- <b>Certified Scrum Master (CSM), (Jul 2022)</b>
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
