@@ -18,7 +18,8 @@
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Configuring Turbonomic REST API Connector](http://ibm.com/docs/en/cabi/1.1.8?topic=sources-configuring-turbonomic-rest-api-connector)
+- [Turbonomic in 2 minutes: Optimize performance and cost across public, private, hybrid and multicloud](https://www.youtube.com/watch?v=_bwm6rOYy5Y&list=PLy1IfoLMgdeZURF06fMjUftxnaVueeHuu)
+- [Built in REST APIs - Learn Integrations on the Now Platform](https://www.youtube.com/watch?v=Fk7noWJt8Q4)
 
 <h2> 🤳 Connect with me:</h2>
 
